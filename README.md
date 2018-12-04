@@ -1,10 +1,10 @@
 # cli
 Command Line Interface with Click
 Make a directory for the repository
-git clone (url)
-cd cli
 
 # Run the following commands
+git clone(url)<br/<
+cd cli<br/>
 python3 -m venv env<br/>
 source env/bin/activate<br/>
 pip install --editable .<br/>

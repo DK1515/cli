@@ -5,10 +5,10 @@ git clone (url)
 cd cli
 
 # Run the following commands
-python3 -m venv env
-source env/bin/activate
-pip install --editable .
-pip install requests
+python3 -m venv env<br/>
+source env/bin/activate<br/>
+pip install --editable .<br/>
+pip install requests<br/>
 
 # Run this command to see possible commands.
 myhello --help
